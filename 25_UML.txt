@@ -1,0 +1,5 @@
+/*
+    UML : Unified Modeling Language (class diagram, ..)
+          순서도 개념에서 발전 (class들 사이의 관계 등등)
+
+*/

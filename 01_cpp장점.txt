@@ -1,0 +1,27 @@
+
+    C
+    장점 : 고성능, 속도 빠름, 메모리 절약
+    단점 : 생산성이 매우 낮음
+
+    C++ (made by Bjarne Stroustrup)
+    object oriented programming
+    객체 지향 프로그래밍
+
+    C++ 은 
+    C의 장점 & 단점 극복
+
+    C --> (SIMULA) C++ --> C++ (어려움) --> Java (포인터 사라짐)--> C# (Windows Form)
+
+==============================================================================
+
+    class : struct + function 
+    inheritance : 기존에 있던 class를 그대로 받고 본인이 바꾸고 싶은 부분만 바꿀 수 있다
+    polymorphism : 
+    operator overloading : 
+    reference type : pointer 대체재
+    standard library : SLL, DLL 같은 여러 함수들이 기본으로 제공된다
+    new, delete. : malloc, free
+    generic : type은 쓸 때 정하면 된다.
+
+
+==============================================================================
